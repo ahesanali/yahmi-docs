@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Search
+title: Authentication
 nav_order: 7
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Controller
 nav_order: 6
 ---
 

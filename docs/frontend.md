@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UI Components
+title: Frontend
 nav_order: 9
 ---
 
