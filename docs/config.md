@@ -1,10 +1,13 @@
 ---
 layout: default
 title: Config
-nav_order: 99
+nav_order: 3
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Configuration
+{: .no_toc }
+
+Yahmi application have all configuration inside conig directory.
 
 [Link to another page](another-page).
 

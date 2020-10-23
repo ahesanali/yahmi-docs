@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Configuration
-nav_order: 2
+title: Router
+nav_order: 4
 ---
 
 # Configuration
